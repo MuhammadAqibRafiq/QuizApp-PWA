@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Yellowtail&display=swap');
+
+.center{
+    width:270px;
+        height:250px; 
+        position:absolute;
+        left:50%;
+        top:50%;
+        margin:-145px 0 0 -135px;
+        background-color: black;
+}
+.header{
+    font-weight: 300;
+    font-size: 2em;
+    color: rgb(255, 6, 6);
+    border-bottom-style: none;
+    text-shadow: #f5390a 0 0 8px;
+    font-family: 'Rampart One', cursive;
+    font-size: 50px;
+}
+.bg{
+    box-shadow: -1px 4px 20px -6px; 
+   font-size: 20px;
+   background-color: rgba(169, 172, 165, 0.5);
+}
+
+.borde{
+      border-left:40px solid #f3bd0a;
+      border-bottom: 25px solid transparent;  
+  }
+  .profile{
+      /* z-index: 5; */
+      /* fill: #070601;    */
+      fill: rgb(12, 9, 10);
+      position: relative;
+      right: 35px;
+      width: 10px;
+  }
