@@ -6,7 +6,7 @@
 
 ## 🚀 Quick Review
 
-Quiz app is Progressive Web App (PWA).
+COVID19 TRACKER APP is Progressive Web App (PWA).
  
 <!-- DEMO : https://www.youtube.com/watch?v=iKydTwHxGDI
  
