@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">
-  QUIZ APP (PWA)
+ COVID19 TRACKER APP (PWA)
 </h1>
 
 ## 🚀 Quick Review
