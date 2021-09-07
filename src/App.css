@@ -30,8 +30,6 @@
       border-bottom: 25px solid transparent;  
   }
   .profile{
-      /* z-index: 5; */
-      /* fill: #070601;    */
       fill: rgb(12, 9, 10);
       position: relative;
       right: 35px;
