@@ -1,16 +1,16 @@
 <p align="center">
 </p>
 <h1 align="center">
- COVID19 TRACKER APP (PWA)
+ QUIZ APP (PWA)
 </h1>
 
 ## 🚀 Quick Review
 
-COVID19 TRACKER APP is Progressive Web App (PWA).
+QUIZ APP is Progressive Web App (PWA).
  
-<!-- DEMO : https://www.youtube.com/watch?v=iKydTwHxGDI
+<!--  DEMO : https://www.youtube.com/watch?v=iKydTwHxGDI -->
  
-LIVE LINK : https://pwa-quiz.netlify.app/ -->
+LIVE LINK : https://pwa-quiz.netlify.app/
 
 <p align="center">
 </p>
@@ -20,22 +20,21 @@ LIVE LINK : https://pwa-quiz.netlify.app/ -->
 
 <h1>DESKTOP</h1>
   
-<!--    <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/desktop2.png" width="1000" />
-   
-   <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/desktop1.png" width="1000" /> -->
+  <img src="https://github.com/MuhammadAqibRafiq/QuizApp-PWA/blob/main/static/desktop.png" width="1000" />
    
 
 <h1>MOBILE</h1>
 
-<!--    <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/mobile.jpeg" width="300"  height="650" />
- -->
+<h1 align="center">
+  <img  src="https://github.com/MuhammadAqibRafiq/QuizApp-PWA/blob/main/static/mobile.png" width="450"  height="650" />
+</h1>
+
 4.  **USED TECH**
 
     - NETLIFY 
 
     - CSS
      
-    - REACT JS
+    - TYPESCRIPT
     
-    - REACT BOOTSTRAP
-
+    - MATERIAL UI
