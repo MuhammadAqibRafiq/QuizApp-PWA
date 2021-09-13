@@ -18,6 +18,9 @@ LIVE LINK : https://pwa-quiz.netlify.app/
   SCREENSHOT
 </h1>
 
+<h1>PWA RESULT</h1>
+<img src="https://github.com/MuhammadAqibRafiq/QuizApp-PWA/blob/main/static/PWA.png" width="1000" />
+
 <h1>DESKTOP</h1>
   
   <img src="https://github.com/MuhammadAqibRafiq/QuizApp-PWA/blob/main/static/desktop.png" width="1000" />
